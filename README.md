@@ -1,4 +1,4 @@
-<h1 style="text-align: center">👋🏻 NAME: Ro Kim<img src="https://media.giphy.com/media/sjfw9xmG5QmP3rzYZd/giphy.gif" width="55"></h1>
+<h1 align="center">👋🏻 NAME: Ro Kim<img src="https://media.giphy.com/media/sjfw9xmG5QmP3rzYZd/giphy.gif" width="55"></h1>
 
 <div style="text-align: center">
   <img src="https://media.giphy.com/media/ygUDzdd27rtIOCPrZE/giphy.gif" alt="ro being a silly goose" width="300">
