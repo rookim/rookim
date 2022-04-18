@@ -1,10 +1,10 @@
 <h1 align="center">👋🏻 NAME: Ro Kim<img src="https://media.giphy.com/media/sjfw9xmG5QmP3rzYZd/giphy.gif" width="55"></h1>
 
-<div style="text-align: center">
+<div align="center">
   <img src="https://media.giphy.com/media/ygUDzdd27rtIOCPrZE/giphy.gif" alt="ro being a silly goose" width="300">
 </div>
 
-<p style="text-align: center"> <img src="https://komarev.com/ghpvc/?username=rookim&label=Profile%20views&color=0e75b6&style=flat" alt="rookim" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rookim&label=Profile%20views&color=0e75b6&style=flat" alt="rookim" /> </p>
 
 &nbsp;
 
