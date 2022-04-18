@@ -6,8 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rookim&label=Profile%20views&color=0e75b6&style=flat" alt="rookim" /> </p>
 
-&nbsp;
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">PROFILE
 
 - I'm a software developer looking for her first opportunity to break into the tech field ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
