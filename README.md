@@ -27,7 +27,7 @@
 <p style="text-align: left">
 <a href="https://linkedin.com/in/rookim" target="blank"><img src="icons8-linkedin.svg" alt="rookim" height="50" width="50"/></a>
 <a href="https://twitter.com/rookim8" target="blank"><img src="icons8-twitter.svg" alt="rookim8" height="50" width="50"/></a>
-<a href="https://www.twitch.tv/roonrails" target="blank" ><img src="icons8-twitch.svg" alt="RoOnRails" height="50" width="50"/></a>
+<a href="https://www.twitch.tv/rooffrails" target="blank" ><img src="icons8-twitch.svg" alt="RoOnRails" height="50" width="50"/></a>
 </p>
 
 &nbsp;
