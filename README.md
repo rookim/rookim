@@ -8,7 +8,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">PROFILE
 
-- I'm a software developer looking for her first opportunity to break into the tech field ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
+- I'm currently a Junior Software Engineer at The Walt Disney Company ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 - I'm a big anime enthusiast! Some anime I'm currently watching: Spy x Family, Kaguya-sama, Sounds of Life 📺
 - I recently got back into Maplestory. If you're in Bera, let's totally connect 🌱
 - I can speak Korean 🇰🇷 한국사람입나다! 잘 부탁드립니다 🙇‍♀️
